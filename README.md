@@ -16,5 +16,4 @@ This webpage hosts a fully functional calculator, built using HTML, CSS, and Jav
 - Combines multiple functionalities and use cases to make a working application
 
 
-### Author 
-Alexander Adame; Future Software Developer; https://www.linkedin.com/in/alexander-adame-david/
+
